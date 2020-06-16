@@ -1,3 +1,4 @@
+#This program is a two-player Rock-Paper-Scissors game.
 while True:
     one = raw_input("Player One-Rock, Paper or Scissors:")
     two = raw_input("Player Two-Rock, Paper or Scissors:")
