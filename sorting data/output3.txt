@@ -1,0 +1,16 @@
+Umesh Gupta, 74, $1200
+
+Gaurav Bandil, 31, $2500
+
+Nisha Gupta, 47, $4500
+
+Kesh Dhatariya, 55, $8000
+
+Neeharika Gupta, 43, $12500
+
+Sandeep Bandil, 45, $13000
+
+Sundar Pichai, 52, $110000
+
+Tim Cook, 6, $120000
+
